@@ -20,7 +20,7 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: America/New_York
-          plugin_stars: yes
+          plugin_stars: no
           plugin_stars_limit: 4
           plugin_achievements: no
           plugin_achievements_limit: 20
@@ -37,8 +37,8 @@ jobs:
           plugin_introduction_title: yes
           plugin_topics: yes
           plugin_topics_sort: stars
-          plugin_topics_mode: mastered
-          plugin_topics_limit: 0
+          plugin_topics_mode: starred
+          plugin_topics_limit: 10
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugin_languages: yes
