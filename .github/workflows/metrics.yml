@@ -37,7 +37,7 @@ jobs:
           plugin_introduction_title: yes
           plugin_topics: yes
           plugin_topics_sort: stars
-          plugin_topics_mode: starred
+          plugin_topics_mode: mastered
           plugin_topics_limit: 10
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
