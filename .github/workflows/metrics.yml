@@ -12,6 +12,9 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          #Resize
+          config_padding: 0, 8 + 10%
+        
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
 
