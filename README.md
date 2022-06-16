@@ -12,7 +12,6 @@ I love going on adventures with topics that I find intriguing. Particularly topi
 
 I am currently learning **Rust** while exploring Data Science in **Python**.  
 
-I don't know half of you half as well as I should like; and I like less than half of you half as well as you deserve.
 
 ![Metrics](https://github.com/rustyxlol/rustyxlol/blob/main/github-metrics.svg)
 
