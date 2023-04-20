@@ -2399,6 +2399,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-5.1, 9)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -2420,7 +2425,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dwalton76/rubiks-cube-tracker</span>
-                                        <span>starred 16 days ago</span>
+                                        <span>starred 17 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Given an image of a rubiks cube, find the RGB value for each square.</div>
@@ -2473,7 +2478,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bindsdev/.dotfiles</span>
-                                        <span>starred 22 days ago</span>
+                                        <span>starred 23 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Configuration files for my development environment</div>
@@ -2526,7 +2531,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>blacksmithop/PythonConcepts</span>
-                                        <span>starred 25 days ago</span>
+                                        <span>starred 26 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Documentation of various advanced Python concepts</div>
@@ -2629,7 +2634,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Apr 2023, 02:51:27 (timezone Europe/Paris) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 20 Apr 2023, 02:48:36 (timezone Europe/Paris) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
