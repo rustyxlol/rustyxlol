@@ -18,7 +18,22 @@ Passionate about Systems Engineering, Networking and Linux!
 
 💖 Love working with Python, Terraform and AWS! 
 
+🔍 On the hunt for FOSS contributions!
+
+
+### Notable Achievements
+
+* Contributed to **Dubai RTA Website**
+* Contributed to **The Odin Project** 
+* Still using [**Quints**](https://github.com/rustyxlol/Quints). One of my produest projects
+* GitHub's Developer Program Member - Looking into **DevOps or Systems**, preferably in **Rust**! 
+* Designed a [10 day course](https://github.com/rustyxlol/on-this-day) to learn DevOps tools!
+* Terraformed for 6 hours straight only to realize what I was trying to achieve was impossible, curious to know what it was? It was me trying to peer two cross-regional VPCs, with auto load balancing, and auto scaling 😭 
+
+Get in touch with me on Discord @ Rusty#2400 or send me a mail [over here](mailto:shujauddin.m@pm.me) to start Rust/AWS related shenanigans. 
+
 You can read more tidbits about my life and programming on: [My Blog](https://rustyxlol.github.io/)
 ![Metrics](https://github.com/rustyxlol/rustyxlol/blob/main/github-metrics.svg)
+
 
 
