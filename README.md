@@ -6,6 +6,8 @@ I have been with computers since I was a kid and have been profoundly in love wi
 
 I love going on adventures with topics that I find intriguing. And for now, that cake goes to Systems and Network Engineering.
 
+You can read more tidbits about my life and programming on: [My Blog](https://rustyxlol.github.io/)
+
 ![Metrics](https://github.com/rustyxlol/rustyxlol/blob/main/github-metrics.svg)
 
 
