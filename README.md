@@ -1,13 +1,22 @@
 ### Greetings traveler, fancy a drink?
 
-Hello there. I am Rusty, a Computer Science and Engineering graduate.
 
-I have been with computers since I was a kid and have been profoundly in love with mathematics ever since I found a teacher who would guide me through maths and life, which also ignited a passion for teaching.  
+Hello there. I am Rusty, a Computer Science and Engineering graduate. I'm a Software Developer currently based in Al Nahda, Dubai.
+Passionate about Systems Engineering, Networking and Linux! 
 
-I love going on adventures with topics that I find intriguing. And for now, that cake goes to Systems and Network Engineering.
+🔨 Currently working on: Full-timing Rust
+
+🌱 I’m currently learning **Rust**
+
+📖 Pursuing CCNA
+
+🔔 Ping me about **League of Legends**, **DoTA**, System Administration/SRE, CCNA/Networking
+
+📝 Passionate about teaching and being taught
+
+🌟 Forever a student
 
 You can read more tidbits about my life and programming on: [My Blog](https://rustyxlol.github.io/)
-
 ![Metrics](https://github.com/rustyxlol/rustyxlol/blob/main/github-metrics.svg)
 
 
