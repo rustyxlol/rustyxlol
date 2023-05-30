@@ -16,6 +16,8 @@ Passionate about Systems Engineering, Networking and Linux!
 
 🌟 Forever a student
 
+💖 Love working with Python, Terraform and AWS! 
+
 You can read more tidbits about my life and programming on: [My Blog](https://rustyxlol.github.io/)
 ![Metrics](https://github.com/rustyxlol/rustyxlol/blob/main/github-metrics.svg)
 
