@@ -5,21 +5,14 @@ Hello there. I am Rusty, a Computer Science and Engineering graduate. I'm a Soft
 Passionate about Systems Engineering, Networking and Linux! 
 
 🔨 Currently working on: Full-timing Rust
-
 🌱 I’m currently learning **Rust**
-
 📖 Pursuing CCNA
-
 🔔 Ping me about **League of Legends**, **DoTA**, System Administration/SRE, CCNA/Networking
-
 📝 Passionate about teaching and being taught
-
 🌟 Forever a student
-
 💖 Love working with Python, Terraform and AWS! 
-
 🔍 On the hunt for FOSS contributions!
-
+🦀 Rustacean in progress 
 
 ### Notable Achievements
 
